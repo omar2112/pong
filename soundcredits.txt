@@ -1,0 +1,40 @@
+All the sounds from the game came from freesound.org
+
+Menu music:
+Arcade Music Loop by joshuaempyre
+http://www.empyreanma.com/music-licensing
+https://freesound.org/people/joshuaempyre/sounds/251461/
+
+Main game music:
+8bit Music for Game by annoyedCactus
+https://freesound.org/people/annoyedCactus/sounds/455017/
+
+Menu sfx:
+sf3-sfx-menu-select by broumbroum
+https://freesound.org/people/broumbroum/sounds/50561/
+
+bounce against wall:
+hint by dland
+https://freesound.org/people/dland/sounds/320181/
+
+bounce against paddle:
+bounce by Owlstorm
+https://freesound.org/people/OwlStorm/sounds/404769/
+
+player score:
+powerup/success by GabrielAraujo
+https://freesound.org/people/GabrielAraujo/sounds/242501/
+
+player victory:
+tones of victory by xtrgamr
+https://freesound.org/people/xtrgamr/sounds/277441/
+
+countdown sound:
+beep_up by paep3nguin
+https://freesound.org/people/paep3nguin/sounds/388046/
+
+Font:
+Magneto Bold
+https://fontzone.net/font-details/magneto-bold
+
+
